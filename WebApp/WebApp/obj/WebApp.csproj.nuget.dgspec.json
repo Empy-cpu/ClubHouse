@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Zubash\\source\\repos\\WebApp\\WebApp\\WebApp.csproj": {}
+    "C:\\Users\\Zubash\\GitHub\\ClubHouse\\WebApp\\WebApp\\WebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Zubash\\source\\repos\\WebApp\\WebApp\\WebApp.csproj": {
+    "C:\\Users\\Zubash\\GitHub\\ClubHouse\\WebApp\\WebApp\\WebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Zubash\\source\\repos\\WebApp\\WebApp\\WebApp.csproj",
+        "projectUniqueName": "C:\\Users\\Zubash\\GitHub\\ClubHouse\\WebApp\\WebApp\\WebApp.csproj",
         "projectName": "WebApp",
-        "projectPath": "C:\\Users\\Zubash\\source\\repos\\WebApp\\WebApp\\WebApp.csproj",
+        "projectPath": "C:\\Users\\Zubash\\GitHub\\ClubHouse\\WebApp\\WebApp\\WebApp.csproj",
         "packagesPath": "C:\\Users\\Zubash\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Zubash\\source\\repos\\WebApp\\WebApp\\obj\\",
+        "outputPath": "C:\\Users\\Zubash\\GitHub\\ClubHouse\\WebApp\\WebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Zubash\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -48,6 +48,18 @@
             "CloudinaryDotNet": {
               "target": "Package",
               "version": "[1.26.2, )"
+            },
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Microsoft.AspNet.Identity.EntityFramework": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.4, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",

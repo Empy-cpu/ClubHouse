@@ -1,34 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Zubash\\source\\repos\\WebApp\\",
+  "WorkspaceRootPath": "C:\\Users\\Zubash\\GitHub\\ClubHouse\\WebApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A765188B-6167-4FD4-AA18-3F705E90ECE9}|WebApp\\WebApp.csproj|c:\\users\\zubash\\source\\repos\\webapp\\webapp\\views\\race\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A765188B-6167-4FD4-AA18-3F705E90ECE9}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\race\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A765188B-6167-4FD4-AA18-3F705E90ECE9}|WebApp\\WebApp.csproj|c:\\users\\zubash\\github\\clubhouse\\webapp\\webapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A765188B-6167-4FD4-AA18-3F705E90ECE9}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A765188B-6167-4FD4-AA18-3F705E90ECE9}|WebApp\\WebApp.csproj|c:\\users\\zubash\\source\\repos\\webapp\\webapp\\controllers\\racecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A765188B-6167-4FD4-AA18-3F705E90ECE9}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\racecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A765188B-6167-4FD4-AA18-3F705E90ECE9}|WebApp\\WebApp.csproj|c:\\users\\zubash\\github\\clubhouse\\webapp\\webapp\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A765188B-6167-4FD4-AA18-3F705E90ECE9}|WebApp\\WebApp.csproj|solutionrelative:webapp\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A765188B-6167-4FD4-AA18-3F705E90ECE9}|WebApp\\WebApp.csproj|c:\\users\\zubash\\source\\repos\\webapp\\webapp\\views\\club\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A765188B-6167-4FD4-AA18-3F705E90ECE9}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\club\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A765188B-6167-4FD4-AA18-3F705E90ECE9}|WebApp\\WebApp.csproj|c:\\users\\zubash\\github\\clubhouse\\webapp\\webapp\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A765188B-6167-4FD4-AA18-3F705E90ECE9}|WebApp\\WebApp.csproj|solutionrelative:webapp\\models\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A765188B-6167-4FD4-AA18-3F705E90ECE9}|WebApp\\WebApp.csproj|c:\\users\\zubash\\source\\repos\\webapp\\webapp\\viewmodels\\createclubviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A765188B-6167-4FD4-AA18-3F705E90ECE9}|WebApp\\WebApp.csproj|c:\\users\\zubash\\github\\clubhouse\\webapp\\webapp\\viewmodels\\createclubviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A765188B-6167-4FD4-AA18-3F705E90ECE9}|WebApp\\WebApp.csproj|solutionrelative:webapp\\viewmodels\\createclubviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A765188B-6167-4FD4-AA18-3F705E90ECE9}|WebApp\\WebApp.csproj|c:\\users\\zubash\\source\\repos\\webapp\\webapp\\repository\\clubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A765188B-6167-4FD4-AA18-3F705E90ECE9}|WebApp\\WebApp.csproj|solutionrelative:webapp\\repository\\clubrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A765188B-6167-4FD4-AA18-3F705E90ECE9}|WebApp\\WebApp.csproj|c:\\users\\zubash\\source\\repos\\webapp\\webapp\\controllers\\clubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A765188B-6167-4FD4-AA18-3F705E90ECE9}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\clubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A765188B-6167-4FD4-AA18-3F705E90ECE9}|WebApp\\WebApp.csproj|c:\\users\\zubash\\source\\repos\\webapp\\webapp\\viewmodels\\createraceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A765188B-6167-4FD4-AA18-3F705E90ECE9}|WebApp\\WebApp.csproj|solutionrelative:webapp\\viewmodels\\createraceviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,97 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Zubash\\source\\repos\\WebApp\\WebApp\\Views\\Race\\Create.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Views\\Race\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Zubash\\source\\repos\\WebApp\\WebApp\\Views\\Race\\Create.cshtml",
-              "RelativeToolTip": "WebApp\\Views\\Race\\Create.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAIwBsAAABxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-29T15:31:49.879Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CreateRaceViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Zubash\\source\\repos\\WebApp\\WebApp\\ViewModels\\CreateRaceViewModel.cs",
-              "RelativeDocumentMoniker": "WebApp\\ViewModels\\CreateRaceViewModel.cs",
-              "ToolTip": "C:\\Users\\Zubash\\source\\repos\\WebApp\\WebApp\\ViewModels\\CreateRaceViewModel.cs",
-              "RelativeToolTip": "WebApp\\ViewModels\\CreateRaceViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\Zubash\\GitHub\\ClubHouse\\WebApp\\WebApp\\Models\\AppUser.cs",
+              "RelativeDocumentMoniker": "WebApp\\Models\\AppUser.cs",
+              "ToolTip": "C:\\Users\\Zubash\\GitHub\\ClubHouse\\WebApp\\WebApp\\Models\\AppUser.cs",
+              "RelativeToolTip": "WebApp\\Models\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T15:27:39.255Z",
+              "WhenOpened": "2024-05-07T21:22:27.302Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "RaceController.cs",
-              "DocumentMoniker": "C:\\Users\\Zubash\\source\\repos\\WebApp\\WebApp\\Controllers\\RaceController.cs",
-              "RelativeDocumentMoniker": "WebApp\\Controllers\\RaceController.cs",
-              "ToolTip": "C:\\Users\\Zubash\\source\\repos\\WebApp\\WebApp\\Controllers\\RaceController.cs",
-              "RelativeToolTip": "WebApp\\Controllers\\RaceController.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAowBQAAAAuAAAA",
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Zubash\\GitHub\\ClubHouse\\WebApp\\WebApp\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "WebApp\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\Zubash\\GitHub\\ClubHouse\\WebApp\\WebApp\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "WebApp\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T15:27:21.363Z",
+              "WhenOpened": "2024-05-07T21:13:33.213Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Zubash\\source\\repos\\WebApp\\WebApp\\Views\\Club\\Create.cshtml",
-              "RelativeDocumentMoniker": "WebApp\\Views\\Club\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Zubash\\source\\repos\\WebApp\\WebApp\\Views\\Club\\Create.cshtml",
-              "RelativeToolTip": "WebApp\\Views\\Club\\Create.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAIwBcAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-29T15:11:47.149Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ClubRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Zubash\\source\\repos\\WebApp\\WebApp\\Repository\\ClubRepository.cs",
-              "RelativeDocumentMoniker": "WebApp\\Repository\\ClubRepository.cs",
-              "ToolTip": "C:\\Users\\Zubash\\source\\repos\\WebApp\\WebApp\\Repository\\ClubRepository.cs",
-              "RelativeToolTip": "WebApp\\Repository\\ClubRepository.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Zubash\\GitHub\\ClubHouse\\WebApp\\WebApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Zubash\\GitHub\\ClubHouse\\WebApp\\WebApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAA1wEcAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T15:00:59.885Z",
+              "WhenOpened": "2024-05-07T20:37:30.615Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "CreateClubViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Zubash\\source\\repos\\WebApp\\WebApp\\ViewModels\\CreateClubViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Zubash\\GitHub\\ClubHouse\\WebApp\\WebApp\\ViewModels\\CreateClubViewModel.cs",
               "RelativeDocumentMoniker": "WebApp\\ViewModels\\CreateClubViewModel.cs",
-              "ToolTip": "C:\\Users\\Zubash\\source\\repos\\WebApp\\WebApp\\ViewModels\\CreateClubViewModel.cs",
+              "ToolTip": "C:\\Users\\Zubash\\GitHub\\ClubHouse\\WebApp\\WebApp\\ViewModels\\CreateClubViewModel.cs",
               "RelativeToolTip": "WebApp\\ViewModels\\CreateClubViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAiwAoAAAAsAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T14:29:57.764Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ClubController.cs",
-              "DocumentMoniker": "C:\\Users\\Zubash\\source\\repos\\WebApp\\WebApp\\Controllers\\ClubController.cs",
-              "RelativeDocumentMoniker": "WebApp\\Controllers\\ClubController.cs",
-              "ToolTip": "C:\\Users\\Zubash\\source\\repos\\WebApp\\WebApp\\Controllers\\ClubController.cs",
-              "RelativeToolTip": "WebApp\\Controllers\\ClubController.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAAwAsAAAA5AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-28T00:07:57.564Z",
+              "WhenOpened": "2024-05-07T20:42:18.328Z",
               "EditorCaption": ""
             }
           ]

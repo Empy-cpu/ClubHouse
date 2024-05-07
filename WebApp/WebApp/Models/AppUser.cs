@@ -4,7 +4,7 @@ using System.Diagnostics;
 
 namespace WebApp.Models
 {
-    public class AppUser: IdentityUser
+    public class AppUser : IdentityUser
     {
         public int? Pace { get; set; }
         public int? Mileage { get; set; }
@@ -17,4 +17,6 @@ namespace WebApp.Models
         public ICollection<Club> Clubs { get; set; }
         public ICollection<Race> Races { get; set; }
     }
+
+    
 }
